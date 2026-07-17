@@ -32,4 +32,5 @@ const CancelPayment = async (req, res) => {
 
 module.exports = CancelPayment;
 
+git add .
 
