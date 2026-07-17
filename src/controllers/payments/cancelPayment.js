@@ -31,3 +31,7 @@ const CancelPayment = async (req, res) => {
 };
 
 module.exports = CancelPayment;
+
+git add .
+git commit -m "including Ai for medicine avalibilty"
+git push origin main
